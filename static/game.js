@@ -64,7 +64,7 @@ function draw() {
     animationId = requestAnimationFrame(draw);
 }
 
-// End Game (NO backend)
+// End Game 
 function endGame() {
     gameOver = true;
     cancelAnimationFrame(animationId);
@@ -89,5 +89,5 @@ restartBtn.onclick = function () {
     draw();
 };
 
-// Start
+
 draw();
