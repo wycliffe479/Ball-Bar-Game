@@ -9,5 +9,3 @@ Play here:
 ## 🕹️ Controls
 - Use **Left Arrow** and **Right Arrow** keys to move the bar
 
-## 💻 Run Locally
-1. Download or clone the repo:
